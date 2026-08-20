@@ -1,0 +1,32 @@
+SMART STREET LIGHT SYSTEM
+==========================
+
+Test Case 1
+Night: false
+Motion Detected: false
+Light Status: OFF
+Brightness: 0%
+--------------------------
+
+Test Case 2
+Night: true
+Motion Detected: false
+Light Status: ON
+Brightness: 30%
+--------------------------
+
+Test Case 3
+Night: true
+Motion Detected: true
+Light Status: ON
+Brightness: 100%
+--------------------------
+
+Test Case 4
+Night: false
+Motion Detected: true
+Light Status: OFF
+Brightness: 0%
+--------------------------
+
+SIMULATION COMPLETED SUCCESSFULLY
